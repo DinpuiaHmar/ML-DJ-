@@ -21,8 +21,7 @@ tensor([[0.8247, 0.0857, 0.0704, 0.0193]], grad_fn=<SoftmaxBackward0>)
 The category with the highest probability is: happy 
 We recommend you this playlist, please click the link:  
 English: https://www.youtube.com/watch?v=ru0K8uYEZWw&list=PLW9z2i0xwq0F38LieqflLLWLWZQgvhEX  
-Hindi: https://www.youtube.com/watch?v=Cc_cNEjAh_Y&list=PL8U7gDbfLksNOQIbN_jfC9DVQYt4xX
- To&ab_channel=SonyMusicIndiaVEVO 
+Hindi: https://www.youtube.com/watch?v=Cc_cNEjAh_Y&list=PL8U7gDbfLksNOQIbN_jfC9DVQYt4xXTo&ab_channel=SonyMusicIndiaVEVO 
 Hope you enjoy the music 
 
 # GOOD EXAMPLES:
